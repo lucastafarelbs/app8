@@ -1,0 +1,4 @@
+#Mon Jan 29 15:32:53 BRST 2018
+base.0=/dados/estudando/react-native/app8/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/dados/estudando/react-native/app8/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex
